@@ -1,0 +1,18 @@
+.navbar {
+    height: 9vw;
+    background-color: #8c8c8c;
+}
+
+.navbar-brand {
+    font-family: 'Chivo', sans-serif;
+    font-size: 24px;
+}
+
+.nav-link {
+    font-size: 13px;
+    margin-top: .35em;
+}
+
+.dropdown-menu {
+    margin-left: -4.7em;
+}

@@ -64,45 +64,29 @@
     <div id="about">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6" class="border" id="hoverIMG" style="text-align: center">
-                <img src="./assets/gmailHeaderPhoto.jpg" id="bodyIMGOne" class="img-fluid" alt="Gmail">
-              <div class="overlay">
-                <a href="https://ericrees9.github.io/StaticLayout/">
-                    <div class="text">Static Webpage</div>
-                </a>
-              </div>
+          <div class="col-lg-6" class="border" style="text-align: center">
+              <p style="text-align: center" id="textIMG1">Static Layout</p>
+              <img src="./assets/gmailHeaderPhoto.jpg" id="bodyIMGOne" class="img-fluid" alt="Gmail">
           </div>
-          <div class="col-lg-6" class="border" id="hoverIMG">
-                <img src="./assets/yoshiHeaderImage.jpg" id="bodyIMGTwo" class="img-fluid" alt="Responsive image">
-              <div class="overlay">
-                <a href="https://ericrees9.github.io/StaticLayout/">
-                  <div class="text">CSS Creature</div>
-                </a>
-              </div>
+          <div class="col-lg-6" class="border">
+              <p style="text-align: center" id="textIMG2">CSS Creature</p>
+              <img src="./assets/yoshiHeaderImage.jpg" id="bodyIMGTwo" class="img-fluid" alt="Responsive image">
           </div>
         </div>
         <div class="row">
-            <div class="col-lg-6" class="border" id="hoverIMG">
-                  <img src="./assets/pokemonRPSPhoto.jpg" id="bodyIMGThree" class="img-fluid" alt="Responsive image">
-                <div class="overlay">
-                  <a href="https://pokemon-rockpaperscissors.web.app/">
-                    <div class="text">API Program</div>
-                  </a>
-                </div>
+            <div class="col-lg-6" class="border">
+                <p style="text-align: center" id="textIMG3">API Project</p>
+                <img src="./assets/pokemonRPSPhoto.jpg" id="bodyIMGThree" class="img-fluid" alt="Responsive image">
             </div>
-            <div class="col-lg-6" class="border" id="hoverIMG">
+            <div class="col-lg-6" class="border">
+                <p style="text-align: center" id="textIMG4">Blue Badge</p>
                 <img src="./assets/bluepadge.jpg" id="bodyIMGFour" class="img-fluid" alt="Responsive image">
-                <div class="overlay">
-                    <div class="text">Coming Soon:<br>Blue Badge</div>
-                </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6" class="border" id="hoverIMG">
+            <div class="col-lg-6" class="border">
+                <p style="text-align: center" id="textIMG5">Red Badge</p>
                 <img src="./assets/redbadge.jpg" id="bodyIMGFive" class="img-fluid" alt="Responsive image">
-                <div class="overlay">
-                    <div class="text">Coming Soon:<br>Red Badge</div>
-                </div>
             </div>
             <div class="col-md-6" id="skillsBlock" style="text-align: center">
                 <br>

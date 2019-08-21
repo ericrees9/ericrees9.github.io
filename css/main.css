@@ -6,8 +6,4 @@
 @import "contact.css";
 @import "body.css";
 @import "about.css";
-
-body {
-    background-color: var(--orange);
-    height: 100vw;
-}
+@import "aboutMe.css";
