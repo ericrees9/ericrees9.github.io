@@ -175,7 +175,6 @@ body {
     max-width: 100%;
     height: auto;
     position: relative;
-    transform: translateY(-13%);
     transition: opacity 1s, visibility 1s;
 }
 
